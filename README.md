@@ -7,7 +7,7 @@ The Contrail Avoidance Decision Matrix is described in Chapter 4 of:
 The associated preprint, "Climate equivalence metrics for airline contrail mitigation" ,  is found here: https://eartharxiv.org/repository/view/7378/
 
 Contact: 
-Reed Miller, reed.miller@maine.edu, https://civil.umaine.edu/reed-miller-ph-d/
+Reed Miller, reed.miller@maine.edu, https://umaine.edu/directory/ums_directory/reed-miller/
 
 
 
